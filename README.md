@@ -228,14 +228,9 @@ Execute the backend by running the command:
 ### `nodemon index.js`
 
 ## 👨‍💻Team Members
-
+- [Varun Sharma - ](https://github.com/Varunhrdvr) [EMail](varunsharmapn2003@gmail.com) :e-mail:
 - [Unmani Shinde - ](https://github.com/unmani-shinde) [EMail](usShinde_b21@el.vjti.ac.in) :e-mail:
-- [Aishwarya Ravi - ](https://github.com/AishwaryaRavi07) [EMail](aravi_b21@el.vjti.ac.in) :e-mail:
-- [Soham Lad - ](https://github.com/Sohamlad2003) [EMail](ssLad_b21@el.vjti.ac.in) :e-mail:
 
-## 👨‍🏫Mentors
 
-- [Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
-- [Ketaki Deshmukh - ](https://github.com/KetakiMDeshmukh) [EMail](kmdeshmukh_b20@ce.vjti.ac.in) :e-mail: 
 
 
